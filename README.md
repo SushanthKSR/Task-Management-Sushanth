@@ -31,7 +31,7 @@ A modern, feature-rich task management application built with React, Redux, and 
 1. Clone the repository:
 ```bash
 git clone https://github.com/SushanthKSR/Task-Management-Sushanth.git
-cd task-management-app
+cd Task-Management-Sushanth
 ```
 
 2. Install dependencies:
